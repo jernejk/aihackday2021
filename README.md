@@ -17,7 +17,13 @@ A brief on Azure Cognitive Services and AI Builder within Power Platform to see 
 - [AI Builder in Power Automate](https://docs.microsoft.com/en-us/ai-builder/use-in-flow-overview)
 - [AI School](https://www.microsoft.com/en-us/ai/ai-school)
 
-## Modern Solution with Power App (AI Builder)
+## Microsoft Bot Framework Composer
+
+Bot Framework Composer allows us to quickly create bots and try them out. 🤖
+
+### References
+
+- [Get started with Bot Framework Composer](https://github.com/Microsoft/BotFramework-Composer)
 
 ## Simplified Machine Learning for developers with ML․NET
 
