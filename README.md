@@ -21,6 +21,8 @@ A brief on Azure Cognitive Services and AI Builder within Power Platform to see 
 
 Bot Framework Composer allows us to quickly create bots and try them out. 🤖
 
+![image](https://user-images.githubusercontent.com/5943653/130307860-c51f80b4-1183-446f-b16b-344c49fdca20.png)
+
 ### References
 
 - [Get started with Bot Framework Composer](https://github.com/Microsoft/BotFramework-Composer)
@@ -31,6 +33,8 @@ Do you want to try machine learning (ML) but don't want to invest too much time 
 
 JK will give you a short introduction to machine learning and without all the complicated mathematics and code. 😁
 He will show you how to get your first ML prototype up and running in 2 minutes, what you need to know to generate the ML model and how to deal with data.
+
+![image](https://user-images.githubusercontent.com/5943653/130307759-e06259cc-630a-41a6-8de9-66d89c7ab7db.png)
 
 ### References
 
@@ -45,6 +49,8 @@ He will show you how to get your first ML prototype up and running in 2 minutes,
 Effective Anti-Money Laundering (AML) solutions can help financial services fight global crime, including human trafficking. Traditional approaches to AML consisted of event scanning based on risk tables. The adoption of ML techniques has helped organizations scale AML to a broad range of data sources and transaction data in real time. Still, ML-only approaches bring inevitable bias that may hinder minorities.
 
 This session explores the technical design and the ethical considerations for an AML solution to extract and ingest data from watch lists and multiple data sources, making data available quickly for analysis, and improve accuracy in detecting AML activity while reducing wasted effort in investigating false alerts. Design and implementation of the ML components of the anti-money laundering solution are also seen in respect of the principles of responsible AI.
+
+![image](https://user-images.githubusercontent.com/5943653/130307739-e328735a-b779-4ea1-8c2d-0e4813243b09.png)
 
 ### References
 
